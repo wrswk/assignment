@@ -1,0 +1,4 @@
+C:\Users\shiha\Downloads\XAMK\INTRODUCTION TO PROGRAMMING\7\BasicCalculatorAssignment-master\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\BasicCalculatorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiha\Downloads\XAMK\INTRODUCTION TO PROGRAMMING\7\BasicCalculatorAssignment-master\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\BasicCalculatorAssignment.AssemblyInfoInputs.cache
+C:\Users\shiha\Downloads\XAMK\INTRODUCTION TO PROGRAMMING\7\BasicCalculatorAssignment-master\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\BasicCalculatorAssignment.AssemblyInfo.cs
+C:\Users\shiha\Downloads\XAMK\INTRODUCTION TO PROGRAMMING\7\BasicCalculatorAssignment-master\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\BasicCalculatorAssignment.csproj.CoreCompileInputs.cache
